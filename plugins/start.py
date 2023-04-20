@@ -124,9 +124,9 @@ async def not_joined(client: Client, message: Message):
         InlineKeyboardButton( '𝕁𝕠𝕚𝕟 ℂ𝕙𝕒𝕟𝕟𝕖𝕝 1', url=f'https://t.me/+vtqVS-IM5gE5MDJl')
        
     ],[
-        InlineKeyboardButton( '𝕁𝕠𝕚𝕟 ℂ𝕙𝕒𝕟𝕟𝕖𝕝 2', url=f'https://t.me/+3ZZ4Fz08ZbNjMmVl')   
+        InlineKeyboardButton( '𝕁𝕠𝕚𝕟 ℂ𝕙𝕒𝕟𝕟𝕖𝕝 2', url=f'https://t.me/+QNF4eLxeCns0Zjhl')   
     ],[
-        InlineKeyboardButton( '𝕁𝕠𝕚𝕟 ℂ𝕙𝕒𝕟𝕟𝕖𝕝 3', url=f'https://t.me/+EykIsSbDTO1mYmVl')
+        InlineKeyboardButton( '𝕁𝕠𝕚𝕟 ℂ𝕙𝕒𝕟𝕟𝕖𝕝 3', url=f'https://t.me/+WDZjK8utq6diYzQ9')
     ],[
         InlineKeyboardButton( '𝕁𝕠𝕚𝕟 ℂ𝕙𝕒𝕟𝕟𝕖𝕝 4', url= client.invitelink)  
         
