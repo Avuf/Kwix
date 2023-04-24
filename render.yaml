@@ -5,7 +5,7 @@ services:
     env: python
     buildCommand: pip install -r requirements.txt
     startCommand: python bot.py
-    repo: https://github.com/dakshkohli23/Sharingan-Rename-Bot.git      
+    repo: https://github.com/Avuf/File-sharing-Bot      
     branch: main
     envVars:
       - key: API_HASH
