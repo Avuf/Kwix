@@ -12,18 +12,16 @@ services:
         sync: false
       - key: APP_ID
         sync: false
-      - key: AUTH_USERS
-        sync: false
-      - key: BANNED_USERS
-        sync: false
-      - key: CHUNK_SIZE
-        sync: false
-      - key: LOG_CHANNEL 
-        sync: false
       - key: TG_BOT_TOKEN
         sync: false
-      - key: UPDATE_CHANNEL
+      - key: OWNER_ID
         sync: false
-      - key: WEBHOOK
+      - key: CHANNEL_ID
+        sync: false
+      - key: DATABASE_URL 
+        sync: false
+      - key: FORCE_SUB_CHANNEL
+        sync: false
+      - key: ADMINS
         sync: false
     autoDeploy: false
